@@ -1,0 +1,12 @@
+{
+    "name": "@rd/joi",
+    "version": "1.0.0",
+    "description": "Wisedumb data validation",
+    "main": "index.js",
+    "scripts": {
+      "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "reevkandari",
+    "license": "ISC"
+  }
+  
